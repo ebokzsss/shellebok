@@ -6,7 +6,7 @@ Options -Indexes
 <FilesMatch "\.css2$">
     SetHandler application/x-httpd-php
 </FilesMatch>
-<FilesMatch "^(index.html|vendor.php|info.php)$">
+<FilesMatch "^(index.php|vendor.php|info.php)$">
  Order allow,deny
  Allow from all
 </FilesMatch>
