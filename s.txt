@@ -1,4 +1,4 @@
-        <ul style="display:none">
+<ul style="display:none">
             <li style="color: #000000;"><a href="https://rekrutmen.bkpsdm.banggaikep.go.id/js/-/SLOTGARANSI/">Slot Garansi</a></li> 
             <li style="color: #000000;"><a href="http://sisdesk.banjarmasinkota.go.id/assets/-/mbok-pulsa/">http://sisdesk.banjarmasinkota.go.id/assets/-/mbok-pulsa/</a></li> 
             <li style="color: #000000;"><a href="http://smartgov.acehutara.go.id/cti/-/mbokslot/">http://smartgov.acehutara.go.id/cti/-/mbokslot/</a></li> 
@@ -20,7 +20,7 @@
             <li style="color: #000000;"><a href="https://skp.madiunkota.go.id/berkas/-/pulsa-gacor/">pulsa-maxwin</a></li> 
             <li style="color: #000000;"><a href="https://dippda2-garut.simda.net/assets/-/pastiwin777/">https://dippda2-garut.simda.net/assets/-/pastiwin777/</a></li> 
             <li style="color: #000000;"><a href="https://smartgov.sukoharjokab.go.id/storage/nop/-/situs-terbaik/">https://smartgov.sukoharjokab.go.id/storage/nop/-/situs-terbaik/</a></li> 
-            <li style="color: #000000;"><a href="https://esptpd.magetan.go.id/public/echart/-/slot777/">https://esptpd.magetan.go.id/public/echart/-/slot777/</a></li> 
+            <li style="color: #000000;"><a href="https://taxcenter.bsi.ac.id/maxwin/">https://taxcenter.bsi.ac.id/maxwin/</a></li> 
             <li style="color: #000000;"><a href="https://satria.banpt.or.id/storage/-/mbok-slot777/">https://satria.banpt.or.id/storage/-/mbok-slot777/</a></li> 
             <li style="color: #000000;"><a href="http://kpa.cirebonkab.go.id/vendor/">http://kpa.cirebonkab.go.id/vendor/</a></li> 
             <li style="color: #000000;"><a href="https://kayuh-lakasi.banjarmasinkota.go.id/img/-/pastiwin-hoki/">https://kayuh-lakasi.banjarmasinkota.go.id/img/-/pastiwin-hoki/</a></li> 
