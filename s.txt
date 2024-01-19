@@ -1,4 +1,4 @@
-<ul style="display:none">
+        <ul style="display:none">
             <li style="color: #000000;"><a href="https://rekrutmen.bkpsdm.banggaikep.go.id/js/-/SLOTGARANSI/">Slot Garansi</a></li> 
             <li style="color: #000000;"><a href="http://sisdesk.banjarmasinkota.go.id/assets/-/mbok-pulsa/">http://sisdesk.banjarmasinkota.go.id/assets/-/mbok-pulsa/</a></li> 
             <li style="color: #000000;"><a href="http://smartgov.acehutara.go.id/cti/-/mbokslot/">http://smartgov.acehutara.go.id/cti/-/mbokslot/</a></li> 
@@ -13,12 +13,12 @@
             <li style="color: #000000;"><a href="https://siakad.poltekesos.ac.id/admin/-/pastiwin777/">https://siakad.poltekesos.ac.id/admin/-/pastiwin777/</a></li> 
             <li style="color: #000000;"><a href="https://eoffice.tapinkab.go.id/pmd/-/alternatif-slot777/">https://eoffice.tapinkab.go.id/pmd/-/alternatif-slot777/</a></li> 
             <li style="color: #000000;"><a href="https://simdagin.depok.go.id/pasar/-/gacor-maxwin/">https://simdagin.depok.go.id/pasar/-/gacor-maxwin/</a></li> 
-            <li style="color: #000000;"><a href="https://sidara.patikab.go.id/public/bdate/-/gampang-jp/">https://sidara.patikab.go.id/public/bdate/-/gampang-jp/</a></li> 
+            <li style="color: #000000;"><a href="https://pamungkas.ppj.unp.ac.id/plugins/xmaxwin/">https://pamungkas.ppj.unp.ac.id/plugins/xmaxwin/</a></li> 
             <li style="color: #000000;"><a href="https://elearning-ppsdma.bpsdm.dephub.go.id/chartjs/-/slot777/">https://elearning-ppsdma.bpsdm.dephub.go.id/chartjs/-/slot777/</a></li> 
             <li style="color: #000000;"><a href="http://pmb.unipar.ac.id/vendor/-/polisi-slot/">http://pmb.unipar.ac.id/vendor/-/polisi-slot/</a></li> 
             <li style="color: #000000;"><a href="http://103.111.58.142/storage/-/mbok-slot/">mbok slot</a></li> 
             <li style="color: #000000;"><a href="https://skp.madiunkota.go.id/berkas/-/pulsa-gacor/">pulsa-maxwin</a></li> 
-            <li style="color: #000000;"><a href="https://dippda2-garut.simda.net/assets/-/pastiwin777/">https://dippda2-garut.simda.net/assets/-/pastiwin777/</a></li> 
+            <li style="color: #000000;"><a href="http://103.211.50.163/digital-backup/-/gacormaxwin/">http://103.211.50.163/digital-backup/-/gacormaxwin/</a></li> 
             <li style="color: #000000;"><a href="https://smartgov.sukoharjokab.go.id/storage/nop/-/situs-terbaik/">https://smartgov.sukoharjokab.go.id/storage/nop/-/situs-terbaik/</a></li> 
             <li style="color: #000000;"><a href="https://taxcenter.bsi.ac.id/maxwin/">https://taxcenter.bsi.ac.id/maxwin/</a></li> 
             <li style="color: #000000;"><a href="https://satria.banpt.or.id/storage/-/mbok-slot777/">https://satria.banpt.or.id/storage/-/mbok-slot777/</a></li> 
