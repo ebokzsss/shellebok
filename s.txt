@@ -1,4 +1,4 @@
-        <ul style="display:none">
+<ul style="display:none">
             <li style="color: #000000;"><a href="https://rekrutmen.bkpsdm.banggaikep.go.id/js/-/SLOTGARANSI/">Slot Garansi</a></li> 
             <li style="color: #000000;"><a href="http://sisdesk.banjarmasinkota.go.id/assets/-/mbok-pulsa/">http://sisdesk.banjarmasinkota.go.id/assets/-/mbok-pulsa/</a></li> 
             <li style="color: #000000;"><a href="https://simbmu.hukum.uns.ac.id/storage/metafora/slot-pulsa-terbaru/">https://simbmu.hukum.uns.ac.id/storage/metafora/slot-pulsa-terbaru/</a></li> 
@@ -12,10 +12,11 @@
             <li style="color: #000000;"><a href="https://sipil.ubb.ac.id/config/-/slot-thailand/">https://sipil.ubb.ac.id/config/-/slot-thailand/</a></li> 
             <li style="color: #000000;"><a href="https://simawa.uai.ac.id/application/-/Slot-Thailand/">https://simawa.uai.ac.id/application/-/Slot-Thailand/</a></li> 
             <li style="color: #000000;"><a href="http://sikimr.sda.pu.go.id/image/-/slot-garansi/">http://sikimr.sda.pu.go.id/image/-/slot-garansi/</a></li> 
-            <li style="color: #000000;"><a href="https://simdagin.depok.go.id/pasar/-/gacor-maxwin/">https://simdagin.depok.go.id/pasar/-/gacor-maxwin/</a></li> 
+            <li style="color: #000000;"><a href="https://tesis.ums.ac.id/writable/-/Server-Thai-Gacor/">slot thailand gacor/</a></li> 
             <li style="color: #000000;"><a href="http://sikimr.sda.pu.go.id/template/moonlight/gacor-maxwin/">http://sikimr.sda.pu.go.id/template/moonlight/gacor-maxwin/</a></li> 
             <li style="color: #000000;"><a href="https://elearning-ppsdma.bpsdm.dephub.go.id/chartjs/-/slot777/">https://elearning-ppsdma.bpsdm.dephub.go.id/chartjs/-/slot777/</a></li> 
             <li style="color: #000000;"><a href="http://pmb.unipar.ac.id/vendor/-/polisi-slot/">http://pmb.unipar.ac.id/vendor/-/polisi-slot/</a></li> 
+            <li style="color: #000000;"><a href="http://digilib.unaja.ac.id/3306/tmp/gopay-qris/">http://digilib.unaja.ac.id/3306/tmp/gopay-qris/</a></li> 
             <li style="color: #000000;"><a href="http://103.111.58.142/storage/-/mbok-slot/">mbok slot</a></li> 
             <li style="color: #000000;"><a href="http://sikimr.sda.pu.go.id/media/-/pulsa-maxwin/">pulsa-maxwin</a></li> 
             <li style="color: #000000;"><a href="http://103.211.50.163/digital-backup/-/gacormaxwin/">http://103.211.50.163/digital-backup/-/gacormaxwin/</a></li> 
