@@ -9,31 +9,31 @@
     <base href="">
     <meta charset="utf-8"/>
 	<title>MBOKSLOT🫧Link Slot Gacor Maxwin Pada Server Slot Thailand Akun Pro Gacor Terpercaya</title>
-    <link rel="amphtml" href="https://www.idisurabaya.or.id/amp/4d/jp4d.html">
+    <link rel="amphtml" href="https://likebrownsugartea.social/amp9/">
     <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model"/>
-    <link rel="icon" type="image/x-icon" href="https://res.cloudinary.com/dxk1isiqs/image/upload/v1706146246/icon_gacorbet99_baru_aljxta.png"/>
-    <link rel="canonical" href="https://e-kinerja.pinrangkab.go.id/assets/spulsa/"/>
-    
-    <meta property="og:site_name" content="Slot Deposit Pulsa"/>
+    <link rel="icon" type="image/x-icon" href="https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg"/>
+    <link rel="canonical" href="https://dishub.depok.go.id/image/-/baik-ajaran/"/>
+    <meta name="google-site-verification" content="ekvzh-IJ9hA8ofeDwA9OEVGkgoofh2wuQBbT4VkXhWE" />
+    <meta property="og:site_name" content="Slot Thailand"/>
     <meta property="og:title" content="MBOKSLOT🫧Link Slot Gacor Maxwin Pada Server Slot Thailand Akun Pro Gacor Terpercaya"/>
-    <meta property="og:url" content="https://e-kinerja.pinrangkab.go.id/assets/spulsa/"/>
+    <meta property="og:url" content="https://dishub.depok.go.id/image/-/baik-ajaran/"/>
     <meta property="og:type" content="product"/>
     <meta property="og:description" content="Mbokslot sebagai situs slot gacor maxwin yang berada pada server slot thailand ,tentunya memiki tingkat situs terbaik saat ini karena pastinya selalu berikan kemenangan dan kesempatan maxwin kepada setiap pemain nya sehingga menjadi situs slot terbaik."/>
-    <meta property="og:image" content="https://res.cloudinary.com/dxk1isiqs/image/upload/v1709294760/SLOT_pphmyx.jpg?format=1500w"/>
+    <meta property="og:image" content="https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg?format=1500w"/>
     <meta property="og:image:width" content="1500"/>
     <meta property="og:image:height" content="1500"/>
     <meta property="product:price:amount" content="768.00"/>
     <meta property="product:price:currency" content="USD"/>
     <meta property="product:availability" content="instock"/>
     <meta itemprop="name" content="MBOKSLOT🫧Link Slot Gacor Maxwin Pada Server Slot Thailand Akun Pro Gacor Terpercaya"/>
-    <meta itemprop="url" content="https://e-kinerja.pinrangkab.go.id/assets/spulsa/"/>
+    <meta itemprop="url" content="https://dishub.depok.go.id/image/-/baik-ajaran/"/>
     <meta itemprop="description" content="Mbokslot sebagai situs slot gacor maxwin yang berada pada server slot thailand ,tentunya memiki tingkat situs terbaik saat ini karena pastinya selalu berikan kemenangan dan kesempatan maxwin kepada setiap pemain nya sehingga menjadi situs slot terbaik."/>
-    <meta itemprop="thumbnailUrl" content="https://res.cloudinary.com/dxk1isiqs/image/upload/v1709294760/SLOT_pphmyx.jpg?format=1500w"/>
-    <link rel="image_src" href="https://res.cloudinary.com/dxk1isiqs/image/upload/v1709294760/SLOT_pphmyx.jpg?format=1500w"/>
-    <meta itemprop="image" content="https://res.cloudinary.com/dxk1isiqs/image/upload/v1709294760/SLOT_pphmyx.jpg?format=1500w"/>
+    <meta itemprop="thumbnailUrl" content="https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg?format=1500w"/>
+    <link rel="image_src" href="https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg?format=1500w"/>
+    <meta itemprop="image" content="https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg?format=1500w"/>
     <meta name="twitter:title" content="MBOKSLOT🫧Link Slot Gacor Maxwin Pada Server Slot Thailand Akun Pro Gacor Terpercaya"/>
-    <meta name="twitter:image" content="https://res.cloudinary.com/dxk1isiqs/image/upload/v1709294760/SLOT_pphmyx.jpg?format=1500w"/>
-    <meta name="twitter:url" content="https://e-kinerja.pinrangkab.go.id/assets/spulsa/"/>
+    <meta name="twitter:image" content="https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg?format=1500w"/>
+    <meta name="twitter:url" content="https://dishub.depok.go.id/image/-/baik-ajaran/"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:description" content="Mbokslot sebagai situs slot gacor maxwin yang berada pada server slot thailand ,tentunya memiki tingkat situs terbaik saat ini karena pastinya selalu berikan kemenangan dan kesempatan maxwin kepada setiap pemain nya sehingga menjadi situs slot terbaik."/>
     <meta name="description" content="Mbokslot sebagai situs slot gacor maxwin yang berada pada server slot thailand ,tentunya memiki tingkat situs terbaik saat ini karena pastinya selalu berikan kemenangan dan kesempatan maxwin kepada setiap pemain nya sehingga menjadi situs slot terbaik."/>
@@ -280,7 +280,7 @@
           "machineTimeZoneOffset": 32400000,
           "timeZoneOffset": 32400000,
           "timeZoneAbbr": "TLT",
-          "siteTitle": "Slot Deposit Pulsa",
+          "siteTitle": "Slot Thailand",
           "fullSiteTitle": "MBOKSLOT🫧Link Slot Gacor Maxwin Pada Server Slot Thailand Akun Pro Gacor Terpercaya u2014 Slot Gacor Hari Ini",
           "siteDescription": {
             "html": "",
@@ -296,7 +296,7 @@
             "8": true,
             "7": true
           },
-          "logoImageUrl": "https://res.cloudinary.com/dxk1isiqs/image/upload/v1705020561/logo_gacorbet99_vesoev.png",
+          "logoImageUrl": "https://res.cloudinary.com/dlo4jgbup/image/upload/v1704713460/df8f3iiyhtib8e9qqys8.png",
           "authenticUrl": "https://clover-ellipsoid-f4hb.squarespace.com",
           "internalUrl": "https://clover-ellipsoid-f4hb.squarespace.com",
           "baseUrl": "https://clover-ellipsoid-f4hb.squarespace.com",
@@ -708,9 +708,9 @@
     <script type="application/ld+json">
       {
         "url": "https://clover-ellipsoid-f4hb.squarespace.com",
-        "name": "Slot Deposit Pulsa",
+        "name": "Slot Thailand",
         "description": "",
-        "image": "https://res.cloudinary.com/dxk1isiqs/image/upload/v1705020561/logo_gacorbet99_vesoev.png",
+        "image": "https://res.cloudinary.com/dlo4jgbup/image/upload/v1704713460/df8f3iiyhtib8e9qqys8.png",
         "@context": "http://schema.org",
         "@type": "WebSite"
       }
@@ -718,13 +718,13 @@
     <script type="application/ld+json">
       {
         "name": "MBOKSLOT🫧Link Slot Gacor Maxwin Pada Server Slot Thailand Akun Pro Gacor Terpercaya u2014 Slot Gacor Hari Ini",
-        "image": "https://res.cloudinary.com/dxk1isiqs/image/upload/v1709294760/SLOT_pphmyx.jpg?format=1500w",
+        "image": "https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg?format=1500w",
         "description": "Mbokslot sebagai situs slot gacor maxwin yang berada pada server slot thailand ,tentunya memiki tingkat situs terbaik saat ini karena pastinya selalu berikan kemenangan dan kesempatan maxwin kepada setiap pemain nya sehingga menjadi situs slot terbaik.",
-        "brand": "Slot Deposit Pulsa",
+        "brand": "Slot Thailand",
         "offers": {
           "price": 768.00,
           "priceCurrency": "USD",
-          "url": "https://e-kinerja.pinrangkab.go.id/assets/spulsa/",
+          "url": "https://dishub.depok.go.id/image/-/baik-ajaran/",
           "availability": "InStock",
           "sku": "SQ8637210",
           "@context": "http://schema.org",
@@ -1072,7 +1072,7 @@
                   " data-animation-role="header-element">
                   <div class="header-title-logo">
                     <a href="/" data-animation-role="header-element">
-                      <img elementtiming="nbf-header-logo-desktop" src="https://res.cloudinary.com/dxk1isiqs/image/upload/v1705020561/logo_gacorbet99_vesoev.png?format=1500w" alt="Slot Deposit Pulsa" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+                      <img elementtiming="nbf-header-logo-desktop" src="https://res.cloudinary.com/dlo4jgbup/image/upload/v1704713460/df8f3iiyhtib8e9qqys8.png?format=1500w" alt="Slot Thailand" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
                     </a>
                   </div>
                 </div>
@@ -1123,7 +1123,7 @@
                   " data-animation-role="header-element">
                   <div class="header-title-logo">
                     <a href="/" data-animation-role="header-element">
-                      <img elementtiming="nbf-header-logo-desktop" src="https://res.cloudinary.com/dxk1isiqs/image/upload/v1705020561/logo_gacorbet99_vesoev.png?format=1500w" alt="Slot Deposit Pulsa" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+                      <img elementtiming="nbf-header-logo-desktop" src="https://res.cloudinary.com/dlo4jgbup/image/upload/v1704713460/df8f3iiyhtib8e9qqys8.png?format=1500w" alt="Slot Thailand" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
                     </a>
                   </div>
                 </div>
@@ -1454,10 +1454,10 @@
                       <section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
                         <div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
                           <div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id=65c48196029a6008145f94e7 data-controller="ImageZoom" data-slide-url="bc1qyznfpkcj5q6hkn4tn8rnmmk8lhmmwu9vx8095s" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
-                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-65c48196029a6008145f94e7" class="ProductItem-gallery-slides-item-image" data-load="false" data-src="https://res.cloudinary.com/dxk1isiqs/image/upload/v1709294760/SLOT_pphmyx.jpg" data-image="https://res.cloudinary.com/dxk1isiqs/image/upload/v1709294760/SLOT_pphmyx.jpg" data-image-dimensions="1946x1946" data-image-focal-point="0.5,0.5" alt="slot gacor (19).png" elementtiming="nbf-products-gallery"/>
+                            <img aria-describedby="ProductItem-gallery-slides-item-1-index-65c48196029a6008145f94e7" class="ProductItem-gallery-slides-item-image" data-load="false" data-src="https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg" data-image="https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg" data-image-dimensions="1946x1946" data-image-focal-point="0.5,0.5" alt="slot gacor (19).png" elementtiming="nbf-products-gallery"/>
                             <span id="ProductItem-gallery-slides-item-1-index-65c48196029a6008145f94e7" style="display: none;"> Image 1 of </span>
                             <div class="product-image-zoom-duplicate" aria-hidden="true">
-                              <img data-load="false" data-src="https://res.cloudinary.com/dxk1isiqs/image/upload/v1709294760/SLOT_pphmyx.jpg" data-image="https://res.cloudinary.com/dxk1isiqs/image/upload/v1709294760/SLOT_pphmyx.jpg" data-image-dimensions="1946x1946" data-image-focal-point="0.5,0.5" alt="slot gacor (19).png" elementtiming="nbf-products-gallery-zoom"/>
+                              <img data-load="false" data-src="https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg" data-image="https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg" data-image-dimensions="1946x1946" data-image-focal-point="0.5,0.5" alt="slot gacor (19).png" elementtiming="nbf-products-gallery-zoom"/>
                             </div>
                           </div>
                           <div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true" data-controller="Lightbox">
@@ -1479,7 +1479,7 @@
                                     <div class="gallery-lightbox-item-wrapper">
                                       <div class="gallery-lightbox-item-src">
                                         <div class="gallery-lightbox-item-img content-fit">
-                                          <img data-src="https://res.cloudinary.com/dxk1isiqs/image/upload/v1709294760/SLOT_pphmyx.jpg" data-image="https://res.cloudinary.com/dxk1isiqs/image/upload/v1709294760/SLOT_pphmyx.jpg" data-image-dimensions="1946x1946" data-image-focal-point="0.5,0.5" alt="slot gacor (19).png" data-load="false" elementtiming="nbf-product-lightbox"/>
+                                          <img data-src="https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg" data-image="https://res.cloudinary.com/dlo4jgbup/image/upload/v1708196336/riz6xtfloy0kbqjiu5xq.jpg" data-image-dimensions="1946x1946" data-image-focal-point="0.5,0.5" alt="slot gacor (19).png" data-load="false" elementtiming="nbf-product-lightbox"/>
                                         </div>
                                       </div>
                                     </div>
@@ -1517,10 +1517,10 @@
                         <div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
                           <div class="ProductItem-product-price" data-animation-role="content">
                             <div class="fluid-image-container sqs-image-content" style="overflow: hidden; -webkit-mask-image: -webkit-radial-gradient(white, black); position: relative; width: 100%; height: 100%;">
-                              <a class="sqs-block-image-link content-fit" href="https://www.idisurabaya.or.id/amp/4d/jp4d.html" target="_blank" rel="noopener">
+                              <a class="sqs-block-image-link content-fit" href="https://likebrownsugartea.social/amp9/" target="_blank" rel="noopener">
                                 <img style="display: block; object-fit: contain; object-position: 50% 50%; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/9WFotG7.gif" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 33.33333333333333vw" srcset="https://i.imgur.com/9WFotG7.gif?format=100w 100w, https://i.imgur.com/9WFotG7.gif?format=300w 300w, https://i.imgur.com/9WFotG7.gif?format=500w 500w, https://i.imgur.com/9WFotG7.gif?format=750w 750w, https://i.imgur.com/9WFotG7.gif?format=1000w 1000w, https://i.imgur.com/9WFotG7.gif?format=1500w 1500w, https://i.imgur.com/9WFotG7.gif?format=2500w 2500w" alt="Slot Gacor" width="400" height="111" data-stretch="false" data-src="https://i.imgur.com/9WFotG7.gif" data-image="https://i.imgur.com/9WFotG7.gif" data-image-dimensions="407x118" data-image-focal-point="0.5,0.5" data-load="false" data-loader="sqs"/>
                               </a>
-                              <div class="product-price"> MIN.DEPO 5.000.00 </div>
+                              <div class="product-price"> Deposit 10rb Maxwin </div>
                               <div data-afterpay="true" data-current-context="{
 "65c46df82397e1188498548b": {
 "scarcityEnabled": false,
@@ -1538,7 +1538,7 @@
 }"></div>
                               <div class="pdp-overlay"></div>
                             </div>
-                            <p class="" style="white-space:pre-wrap;">Mbokslot sebagai situs slot gacor maxwin yang berada pada server slot thailand ,tentunya memiki tingkat situs terbaik saat ini karena pastinya selalu berikan kemenangan dan kesempatan maxwin kepada setiap pemain nya sehingga menjadi situs slot terbaik.</p>
+                            <p class="" style="white-space:pre-wrap;">Mbokslot sebagai situs <a href="https://dishub.depok.go.id/image/-/baik-ajaran/">slot gacor maxwin</a> yang berada pada server slot thailand ,tentunya memiki tingkat situs terbaik saat ini karena pastinya selalu berikan kemenangan dan kesempatan maxwin kepada setiap pemain nya sehingga menjadi situs slot terbaik.</p>
                             <div class="product-quantity-input" data-item-id="65c46df82397e1188498548b" data-animation-role="content">
                               <div class="quantity-label">Quantity:</div>
                               <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
