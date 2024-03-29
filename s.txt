@@ -1,5 +1,4 @@
         <ul style="display:none">
-            <li style="color: #000000;"><a href="https://sibangsawan.kalbarprov.go.id/system/language/-/gacor-maxwin/">https://sibangsawan.kalbarprov.go.id/system/language/-/gacor-maxwin/</a></li> 
             <li style="color: #000000;"><a href="https://eoffice.setda.inhilkab.go.id/application/language/-/maxwin-mbok/">https://eoffice.setda.inhilkab.go.id/application/language/-/maxwin-mbok/</a></li> 
             <li style="color: #000000;"><a href="http://sisdesk.banjarmasinkota.go.id/assets/-/mbok-pulsa/">http://sisdesk.banjarmasinkota.go.id/assets/-/mbok-pulsa/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/images/Survei/-/scater-hitam/">https://fmipa.unand.ac.id/images/Survei/-/scater-hitam/</a></li> 
