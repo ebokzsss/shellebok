@@ -8,8 +8,7 @@
 <base href="">
 <meta charset="utf-8" />
 <title>Scatter Hitam 🪬 Link Slot Gacor Scatter Hitam Mahjong Terbaik Pada Pilihan Slot Gacor Maxwin Setiap Hari</title>
-<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
-<link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico" />
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/65ec5eb70cbc526062a4af27/24ae715b-57f3-487c-806c-d36e260f29bf/favicon.ico?format=100w"/>
 <link rel="canonical" href="https://simhewan.dispertan.semarangkota.go.id/common/-/sketer-itam/"/>
 <link rel="amphtml" href="https://pub-84a8e0f6317c4d838babad627754d987.r2.dev/amp1/index.html">
 <meta property="og:site_name" content="Slot Thailand"/>
