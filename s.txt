@@ -1,4 +1,4 @@
-<ul style="display:none">
+        <ul style="display:none">
             <li style="color: #000000;"><a href="https://kejari-tual.kejaksaan.go.id/admin/ads/?Products=slot%20hoki">https://kejari-tual.kejaksaan.go.id/admin/ads/?Products=slot%20hoki</a></li> 
             <li style="color: #000000;"><a href="https://eoffice.setda.inhilkab.go.id/application/language/-/maxwin-mbok/">https://eoffice.setda.inhilkab.go.id/application/language/-/maxwin-mbok/</a></li> 
             <li style="color: #000000;"><a href="http://sisdesk.banjarmasinkota.go.id/assets/-/mbok-pulsa/">http://sisdesk.banjarmasinkota.go.id/assets/-/mbok-pulsa/</a></li> 
@@ -25,5 +25,5 @@
             <li style="color: #000000;"><a href="https://fmipa.uny.ac.id/PUBLIK%20EROR/misc/-/jackpot-besar/index.html">https://fmipa.uny.ac.id/PUBLIK%20EROR/misc/-/jackpot-besar/index.html</a></li> 
             <li style="color: #000000;"><a href="https://simpeg.kemendesa.go.id/storage/scatter-gacor/">https://simpeg.kemendesa.go.id/storage/scatter-gacor/</a></li> 
             <li style="color: #000000;"><a href="https://kayuh-lakasi.banjarmasinkota.go.id/img/-/pastiwin-hoki/">https://kayuh-lakasi.banjarmasinkota.go.id/img/-/pastiwin-hoki/</a></li> 
-            <li style="color: #000000;"><a href="https://ejournal.iaiskjmalang.ac.id/js/controllers/-/scatter-viral/">https://ejournal.iaiskjmalang.ac.id/js/controllers/-/scatter-viral/</a></li> 
+            <li style="color: #000000;"><a href="http://ekinerja.binjaikota.go.id/absensi/api/-/scatter-hitam/">http://ekinerja.binjaikota.go.id/absensi/api/-/scatter-hitam/</a></li> 
  </ul>
