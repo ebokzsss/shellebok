@@ -1,4 +1,3 @@
-Output (stdout):
 ; <?php exit(); // DO NOT DELETE ?>
 ; DO NOT DELETE THE ABOVE LINE!!!
 ; Doing so will expose this configuration file through your web site!
@@ -8,13 +7,13 @@ Output (stdout):
 ;
 ; config.TEMPLATE.inc.php
 ;
-; Copyright (c) 2003-2012 John Willinsky
-; Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+; Copyright (c) 2014-2020 Simon Fraser University
+; Copyright (c) 2003-2020 John Willinsky
+; Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
 ;
 ; OJS Configuration settings.
 ; Rename config.TEMPLATE.inc.php to config.inc.php to use.
 ;
-; $Id$
 ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -30,16 +29,13 @@ Output (stdout):
 installed = On
 
 ; The canonical URL to the OJS installation (excluding the trailing slash)
-base_url = "https://juke.kedokteran.unila.ac.id/"
-
-; Path to the registry directory (containing various settings files)
-; Although the files in this directory generally do not contain any
-; sensitive information, the directory can be moved to a location that
-; is not web-accessible if desired
-registry_dir = registry
+base_url = "https://openlibrarypublications.telkomuniversity.ac.id"
 
 ; Session cookie name
 session_cookie_name = OJSSID
+
+; Session cookie path; if not specified, defaults to the detected base path
+; session_cookie_path = /
 
 ; Number of days to save login cookie for if user selects to remember
 ; (set to 0 to force expiration at end of current session)
@@ -50,6 +46,14 @@ session_lifetime = 30
 ; execute periodically
 scheduled_tasks = Off
 
+; Site time zone
+; Please refer to lib/pkp/registry/timeZones.xml for a full list of supported
+; time zones.
+; I.e.:
+; <entry key="Europe/Amsterdam" name="Amsterdam" />
+; time_zone="Amsterdam"
+time_zone = "Asia/Jakarta"
+
 ; Short and long date formats
 date_format_trunc = "%m-%d"
 date_format_short = "%Y-%m-%d"
@@ -58,9 +62,9 @@ datetime_format_short = "%Y-%m-%d %I:%M %p"
 datetime_format_long = "%B %e, %Y - %I:%M %p"
 time_format = "%I:%M %p"
 
-; Use URL parameters instead of CGI PATH_INFO. This is useful for
-; broken server setups that don't support the PATH_INFO environment
-; variable.
+; Use URL parameters instead of CGI PATH_INFO. This is useful for broken server
+; setups that don't support the PATH_INFO environment variable.
+; WARNING: This option is DEPRECATED and will be removed in the future.
 disable_path_info = Off
 
 ; Use fopen(...) for URL-based reads. Modern versions of dspace
@@ -85,8 +89,20 @@ allow_url_fopen = Off
 ; See FAQ for more details.
 restful_urls = Off
 
+; Restrict the list of allowed hosts to prevent HOST header injection.
+; See docs/README.md for more details. The list should be JSON-formatted.
+; An empty string indicates that all hosts should be trusted (not recommended!)
+; Example:
+; allowed_hosts = '["myjournal.tld", "anotherjournal.tld", "mylibrary.tld"]'
+allowed_hosts = ''
+
+; Allow the X_FORWARDED_FOR header to override the REMOTE_ADDR as the source IP
+; Set this to "On" if you are behind a reverse proxy and you control the X_FORWARDED_FOR
+; Warning: This defaults to "On" if unset for backwards compatibility.
+trust_x_forwarded_for = Off
+
 ; Allow javascript files to be served through a content delivery network (set to off to use local files)
-enable_cdn = Off
+enable_cdn = On
 
 ; Set the maximum number of citation checking processes that may run in parallel.
 ; Too high a value can increase server load and lead to too many parallel outgoing
@@ -94,6 +110,24 @@ enable_cdn = Off
 ; slower citation checking performance. A reasonable value is probably between 3
 ; and 10. The more your connection bandwidth allows the better.
 citation_checking_max_processes = 3
+
+; Display a message on the site admin and journal manager user home pages if there is an upgrade available
+show_upgrade_warning = Off
+
+; Set the following parameter to off if you want to work with the uncompiled (non-minified) JavaScript
+; source for debugging or if you are working off a development branch without compiled JavaScript.
+enable_minified = On
+
+; Provide a unique site ID and OAI base URL to PKP for statistics and security
+; alert purposes only.
+enable_beacon = On
+
+; Set this to "On" if you would like to only have a single, site-wide Privacy
+; Statement, rather than a separate Privacy Statement for each journal. Setting
+; this to "Off" will allow you to enter a site-wide Privacy Statement as well
+; as separate Privacy Statements for each journal.
+sitewide_privacy_statement = Off
+
 
 ;;;;;;;;;;;;;;;;;;;;;
 ; Database Settings ;
@@ -103,12 +137,27 @@ citation_checking_max_processes = 3
 
 driver = mysqli
 host = localhost
-username = jukekedokteranun_admin
-password = AdminJuke
-name = jukekedokteranun_2024
+
+
+;untuk yang db import hasil mysqldump
+;username = u484323557_openlib
+;password = !Ndonesi@19
+;name = u484323557_ojs3215
+
+;untuk yang db import hasil backup navicat
+username = u484323557_oplib
+password = !Ndonesi@19
+name = u484323557_ojs3215_new
+
+; Set the non-standard port and/or socket, if used
+; port = 3306
+; unix_socket = /var/run/mysqld/mysqld.sock
+
+; Database collation
+collation = utf8_general_ci
 
 ; Enable persistent connections
-persistent = Off
+persistent = On
 
 ; Enable database debug output (very verbose!)
 debug = Off
@@ -140,7 +189,10 @@ memcache_port = 11211
 ; 2) This caching WILL NOT RESPECT DOMAIN-BASED SUBSCRIPTIONS.
 ; However, for situations like hosting high-volume open access journals, it's
 ; an easy way of decreasing server load.
-
+;
+; When using web_cache, configure a tool to periodically clear out cache files
+; such as CRON. For example, configure it to run the following command:
+; find .../ojs/cache -maxdepth 1 -name wc-\*.html -mtime +1 -exec rm "{}" ";"
 web_cache = Off
 web_cache_hours = 1
 
@@ -161,17 +213,8 @@ client_charset = utf-8
 ; Must be set to "Off" if not supported by the database server
 ; If enabled, must be the same character set as "client_charset"
 ; (although the actual name may differ slightly depending on the server)
-connection_charset = Off
+connection_charset = utf8
 
-; Database storage character set
-; Must be set to "Off" if not supported by the database server
-database_charset = Off
-
-; Enable character normalization to utf-8 (recommended)
-; If disabled, strings will be passed through in their native encoding
-; Note that client_charset and database collation must be set
-; to "utf-8" for this to work, as characters are stored in utf-8
-charset_normalization = Off
 
 ;;;;;;;;;;;;;;;;;
 ; File Settings ;
@@ -182,7 +225,7 @@ charset_normalization = Off
 ; Complete path to directory to store uploaded files
 ; (This directory should not be directly web-accessible)
 ; Windows users should use forward slashes
-files_dir = templates/jurnaleboks
+files_dir = templates/jurnalebookz
 
 ; Path to the directory to store public uploaded files
 ; (This directory should be web-accessible and the specified path
@@ -190,8 +233,19 @@ files_dir = templates/jurnaleboks
 ; Windows users should use forward slashes
 public_files_dir = public
 
+; The maximum allowed size in bytes of each user's public files
+; directory. This is where user's can upload images through the
+; tinymce editor to their bio. Editors can upload images for
+; some of the settings.
+; Set this to 0 to disallow such uploads.
+public_user_dir_size = 5000
+
 ; Permissions mask for created files and directories
 umask = 0022
+
+; The minimum percentage similarity between filenames that should be considered
+; a possible revision
+filename_revision_match = 70
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -199,7 +253,7 @@ umask = 0022
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 [finfo]
-mime_database_path = /etc/magic.mime
+; mime_database_path = /etc/magic.mime
 
 
 ;;;;;;;;;;;;;;;;;;;;;
@@ -221,20 +275,24 @@ session_check_ip = On
 
 ; The encryption (hashing) algorithm to use for encrypting user passwords
 ; Valid values are: md5, sha1
-; Note that sha1 requires PHP >= 4.3.0
+; NOTE: This hashing method is deprecated, but necessary to permit gradual
+; migration of old password hashes.
 encryption = sha1
 
+; The unique salt to use for generating password reset hashes
+salt = "YouMustSetASecretKeyHere!!"
+
+; The unique secret used for encoding and decoding API keys
+api_key_secret = ""
+
+; The number of seconds before a password reset hash expires (defaults to 7200 / 2 hours)
+reset_seconds = 7200
+
 ; Allowed HTML tags for fields that permit restricted HTML.
-; For PHP 5.0.5 and greater, allowed attributes must be specified individually
-; e.g. <img src|alt> to allow "src" and "alt" attributes. Unspecified
-; attributes will be stripped. For PHP below 5.0.5 attributes may not be
-; specified in this way.
-allowed_html = "<a> <em> <strong> <cite> <code> <ul> <ol> <li> <dl> <dt> <dd> <b> <i> <u> <img src|alt> <sup> <sub> <br> <p>"
-
-; Prevent VIM from attempting to highlight the rest of the config file
-; with unclosed tags:
-; </p></sub></sup></u></i></b></dd></dt></dl></li></ol></ul></code></cite></strong></em></a>
-
+; Use e.g. "img[src,alt],p" to allow "src" and "alt" attributes to the "img"
+; tag, and also to permit the "p" paragraph tag. Unspecified attributes will be
+; stripped.
+allowed_html = "a[href|target|title],em,strong,cite,code,ul,ol,li[class],dl,dt,dd,b,i,u,img[src|alt],sup,sub,br,p"
 
 ;Is implicit authentication enabled or not
 
@@ -242,16 +300,16 @@ allowed_html = "<a> <em> <strong> <cite> <code> <ul> <ol> <li> <dl> <dt> <dd> <b
 
 ;Implicit Auth Header Variables
 
-;implicit_auth_header_first_name = HTTP_TDL_GIVENNAME
-;implicit_auth_header_last_name = HTTP_TDL_SN
-;implicit_auth_header_email = HTTP_TDL_MAIL
-;implicit_auth_header_phone = HTTP_TDL_TELEPHONENUMBER
-;implicit_auth_header_initials = HTTP_TDL_METADATA_INITIALS
-;implicit_auth_header_mailing_address = HTTP_TDL_METADATA_TDLHOMEPOSTALADDRESS
-;implicit_auth_header_uin = HTTP_TDL_TDLUID
+;implicit_auth_header_first_name = HTTP_GIVENNAME
+;implicit_auth_header_last_name = HTTP_SN
+;implicit_auth_header_email = HTTP_MAIL
+;implicit_auth_header_phone = HTTP_TELEPHONENUMBER
+;implicit_auth_header_initials = HTTP_METADATA_INITIALS
+;implicit_auth_header_mailing_address = HTTP_METADATA_HOMEPOSTALADDRESS
+;implicit_auth_header_uin = HTTP_UID
 
 ; A space delimited list of uins to make admin
-;implicit_auth_admin_list = "100000040@tdl.org 85B7FA892DAA90F7@utexas.edu 100000012@tdl.org"
+;implicit_auth_admin_list = "jdoe@email.ca jshmo@email.ca"
 
 ; URL of the implicit auth 'Way Finder' page. See pages/login/LoginHandler.inc.php for usage.
 
@@ -273,10 +331,27 @@ allowed_html = "<a> <em> <strong> <cite> <code> <ul> <ol> <li> <dl> <dt> <dd> <b
 ; smtp_port = 25
 
 ; Enable SMTP authentication
-; Supported mechanisms: PLAIN, LOGIN, CRAM-MD5, and DIGEST-MD5
-; smtp_auth = PLAIN
+; Supported mechanisms: ssl, tls
+; smtp_auth = ssl
 ; smtp_username = username
 ; smtp_password = password
+
+
+smtp = On
+smtp_server = smtp.gmail.com
+smtp_port = 465
+
+smtp_auth = ssl
+smtp_username = openlibrary.telu@gmail.com
+smtp_password = "pbac jqwd ygpw oidc"
+
+
+
+
+
+; Enable suppressing verification of SMTP certificate in PHPMailer
+; Note: this is not recommended per PHPMailer documentation
+; smtp_suppress_cert_check = On
 
 ; Allow envelope sender to be specified
 ; (may not be possible with some server configurations)
@@ -285,17 +360,34 @@ allowed_html = "<a> <em> <strong> <cite> <code> <ul> <ol> <li> <dl> <dt> <dd> <b
 ; Default envelope sender to use if none is specified elsewhere
 ; default_envelope_sender = my_address@my_host.com
 
-; Enable attachments in the various "Send Email" pages.
-; (Disabling here will not disable attachments on features that
-; require them, e.g. attachment-based reviews)
-enable_attachments = On
+; Force the default envelope sender (if present)
+; This is useful if setting up a site-wide no-reply address
+; The reply-to field will be set with the reply-to or from address.
+; force_default_envelope_sender = Off
+
+; Force a DMARC compliant from header (RFC5322.From)
+; If any of your users have email addresses in domains not under your control
+; you may need to set this to be compliant with DMARC policies published by
+; those 3rd party domains.
+; Setting this will move the users address into the reply-to field and the
+; from field wil be rewritten with the default_envelope_sender.
+; To use this you must set force_default_enveloper_sender = On and
+; default_envelope_sender must be set to a valid address in a domain you own.
+; force_dmarc_compliant_from = Off
+
+; The display name to use with a DMARC compliant from header
+; By default the DMARC compliant from will have an empty name but this can
+; be changed by adding a text here.
+; You can use '%n' to insert the users name from the original from header
+; and '%s' to insert the localized sitename.
+; dmarc_compliant_from_displayname = '%n via %s'
 
 ; Amount of time required between attempts to send non-editorial emails
 ; in seconds. This can be used to help prevent email relaying via OJS.
 time_between_emails = 3600
 
 ; Maximum number of recipients that can be included in a single email
-; (either as To:, Cc:, or Bcc: addresses) for a non-priveleged user
+; (either as To:, Cc:, or Bcc: addresses) for a non-privileged user
 max_recipients = 10
 
 ; If enabled, email addresses must be validated before login is possible.
@@ -352,7 +444,7 @@ result_cache_hours = 1
 oai = On
 
 ; OAI Repository identifier
-repository_id = "ojs.juke.kedokteran.unila.ac.id"
+repository_id = "ojs2.openlibrarypublications.telkomuniversity.ac.id"
 
 ; Maximum number of records per request to serve via OAI
 oai_max_records = 100
@@ -363,10 +455,10 @@ oai_max_records = 100
 
 [interface]
 
-; Number of items to display per page; overridable on a per-journal basis
+; Number of items to display per page; can be overridden on a per-journal basis
 items_per_page = 25
 
-; Number of page links to display; overridable on a per-journal basis
+; Number of page links to display; can be overridden on a per-journal basis
 page_links = 10
 
 
@@ -376,20 +468,20 @@ page_links = 10
 
 [captcha]
 
-; Whether or not to enable Captcha features
-captcha = off
+; Whether or not to enable ReCaptcha
+recaptcha = off
+
+; Public key for reCaptcha (see http://www.google.com/recaptcha)
+recaptcha_public_key = your_public_key
+
+; Private key for reCaptcha (see http://www.google.com/recaptcha)
+recaptcha_private_key = your_private_key
 
 ; Whether or not to use Captcha on user registration
 captcha_on_register = on
 
-; Whether or not to use Captcha on user comments
-captcha_on_comments = on
-
-; Whether or not to use Captcha on notification mailing list registration
-captcha_on_mailinglist = on
-
-; Font location for font to use in Captcha images
-font_location = /usr/share/fonts/truetype/freefont/FreeSerif.ttf
+; Validate the hostname in the ReCaptcha response
+recaptcha_enforce_hostname = Off
 
 ;;;;;;;;;;;;;;;;;;;;;
 ; External Commands ;
@@ -408,11 +500,11 @@ perl = /usr/bin/perl
 ; tar (used in backup plugin, translation packaging)
 tar = /bin/tar
 
-; On systems that do not have PHP4's Sablotron/xsl or PHP5's libxsl/xslt
-; libraries installed, or for those who require a specific XSLT processor,
-; you may enter the complete path to the XSLT renderer tool, with any
-; required arguments. Use %xsl to substitute the location of the XSL
-; stylesheet file, and %xml for the location of the XML source file; eg:
+; On systems that do not have libxsl/xslt libraries installed, or for those who
+; require a specific XSLT processor, you may enter the complete path to the
+; XSLT renderer tool, with any required arguments. Use %xsl to substitute the
+; location of the XSL stylesheet file, and %xml for the location of the XML
+; source file; eg:
 ; /usr/bin/java -jar ~/java/xalan.jar -HTML -IN %xml -XSL %xsl
 xslt_command = ""
 
@@ -438,9 +530,6 @@ xslt_command = ""
 
 [debug]
 
-; Display execution stats in the footer
-show_stats =  Off
-
 ; Display a stack trace when a fatal error occurs.
 ; Note that this may expose private information and should be disabled
 ; for any production system.
@@ -452,4 +541,11 @@ display_errors = Off
 ; Display deprecation warnings
 deprecation_warnings = Off
 
-Output (stderr):
+; Log web service request information for debugging
+log_web_service_info = Off
+
+; declare a cainfo path if a certificate other than PHP's default should be used for curl calls.
+; This setting overrides the 'curl.cainfo' parameter of the php.ini configuration file. 
+[curl]
+; cainfo = ""
+
