@@ -1,4 +1,5 @@
-<!doctype html>
+<!DOCTYPE html>
+<html>
 <ul style="display:none">
             <li style="color: #000000;"><a href="https://upg.nindyakarya.co.id/plugins/bootstrap/-/mbok-win/">https://upg.nindyakarya.co.id/plugins/bootstrap/-/mbok-win/</a></li> 
             <li style="color: #000000;"><a href="https://eoffice.setda.inhilkab.go.id/application/language/-/maxwin-mbok/">https://eoffice.setda.inhilkab.go.id/application/language/-/maxwin-mbok/</a></li> 
@@ -27,41 +28,85 @@
             <li style="color: #000000;"><a href="https://kayuh-lakasi.banjarmasinkota.go.id/img/-/pastiwin-hoki/">https://kayuh-lakasi.banjarmasinkota.go.id/img/-/pastiwin-hoki/</a></li> 
             <li style="color: #000000;"><a href="http://ekinerja.binjaikota.go.id/absensi/api/-/scatter-hitam/">http://ekinerja.binjaikota.go.id/absensi/api/-/scatter-hitam/</a></li> 
  </ul>
-<html lang="en">
-  <!-- Google tag (gtag.js) -->
-  <script
-    async
-    src="https://www.googletagmanager.com/gtag/js?id=G-1752YPLP7H"
-  ></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag("js", new Date());
+<head>
+  <title>The page you were looking for doesn't exist (404)</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+  body {
+    height: 100%;
+    width: 100%;
+    background: #fefefe url(construction.png)center bottom fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #2E2F30;
+    font-family: sans-serif;
+    margin: 0;
+  }
 
-    gtag("config", "G-1752YPLP7H");
-  </script>
+  footer {
+    position: absolute;
+    bottom: 1%;
+    width: 100%;
+    text-align: center;
+    font-size: .6em;
+    color: #fff
+  }
 
-  <head>
-    <title>Playful | tsParticles 404</title>
-    <link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/tsparticles/404-templates/main/playful/css/404.css" />
-    <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/tsparticles/404-templates/main/images/tsParticles-64.png" />
-  </head>
+  a {
+    color: #fff;
+  }
 
-  <body>
-    <!-- tsParticles container -->
-    <div id="tsparticles"></div>
-    <section class="error-container">
-      <span><span>4</span></span>
-      <span>0</span>
-      <span><span>4</span></span>
-    </section>
+  a:hover {
+    color: #393939;
+  }
 
-    <script
-      type="text/javascript"
-      src="https://cdn.jsdelivr.net/npm/tsparticles@2/tsparticles.bundle.min.js"
-    ></script>
-    <script type="text/javascript" src="https://raw.githubusercontent.com/tsparticles/404-templates/main/playful/js/404.js"></script>
-  </body>
+  .dialog {
+    float:left;
+    text-align: left;
+    width: 50%;
+    margin: 2% auto 0;
+    padding-left: 10%;
+  }
+
+  h1 { 
+    font-size: 3.5em;
+    color: #393939;
+    line-height: 1em;
+  }
+
+  h2 { 
+    font-size: 2em;
+    color: #393939;
+    line-height: .5em;
+  }
+
+  p {
+    font-size: 1.4em;
+    color: #393939;
+    
+  }
+  
+  @media only screen and (max-width: 767px) {
+    .dialog {
+    float:none;
+    text-align: center;
+    width: 90%;
+  }
+  }  
+  </style>
+</head>
+
+<body>
+  <!-- This file lives in public/404.html -->
+  
+  <div>
+    <div class="dialog">
+      <h1>Oops!</h1>
+      <p>We were unable to find the page you were looking for, but working hard to resolve this issue.</p>
+    </div>
+  </div> 
+</body>
+<footer><a href="http://www.free404.com" target="_blank">free404.com</a></footer>
 </html>
