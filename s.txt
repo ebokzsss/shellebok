@@ -1,7 +1,7 @@
 <ul style="display:none">
             <li style="color: #000000;"><a href="https://upg.nindyakarya.co.id/libs/bootstrap/-/mbok-jackpot/">https://upg.nindyakarya.co.id/libs/bootstrap/-/mbok-jackpot/</a></li> 
             <li style="color: #000000;"><a href="https://eoffice.setda.inhilkab.go.id/application/language/-/maxwin-mbok/">https://eoffice.setda.inhilkab.go.id/application/language/-/maxwin-mbok/</a></li> 
-            <li style="color: #000000;"><a href=" http://103.206.170.246:8080/config/autoload/-/Mbokslot/"> http://103.206.170.246:8080/config/autoload/-/Mbokslot/</a></li> 
+            <li style="c1olor: #000000;"><a href=" http://103.206.170.246:8080/config/autoload/-/Mbokslot/"> http://103.206.170.246:8080/config/autoload/-/Mbokslot/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/images/Survei/-/scater-hitam/">https://fmipa.unand.ac.id/images/Survei/-/scater-hitam/</a></li> 
             <li style="color: #000000;"><a href="https://dpppa.palopokota.go.id/storage/img/-/slot-mbok/">https://dpppa.palopokota.go.id/storage/img/-/slot-mbok/</a></li> 
             <li style="color: #000000;"><a href="https://siakun.unisan.ac.id/system/charts/themes/-/Slot-Gacor/">https://siakun.unisan.ac.id/system/charts/themes/-/Slot-Gacor/</a></li> 
@@ -22,7 +22,7 @@
             <li style="color: #000000;"><a href="https://silihasuhraharja.majalengkakab.go.id/fonts/Lobster-Awesome/-/scatter-ungu-viral/">https://silihasuhraharja.majalengkakab.go.id/fonts/Lobster-Awesome/-/scatter-ungu-viral/</a></li> 
             <li style="color: #000000;"><a href="https://esakip.hulusungaiselatankab.go.id/assets/images/-/scatter-hitam/">https://esakip.hulusungaiselatankab.go.id/assets/images/-/scatter-hitam/</a></li> 
             <li style="color: #000000;"><a href="https://aespastiwinsukses.com/">Pastiwin777</a></li> 
-            <li style="color: #000000;"><a href="https://siak.umla.ac.id/style/js/thaiXgacor/">https://siak.umla.ac.id/style/js/thaiXgacor/</a></li> 
+            <li style="color: #000000;"><a href="https://siakad.unaimwamena.ac.id/style/js/-/jgacor/">https://siakad.unaimwamena.ac.id/style/js/-/jgacor/</a></li> 
             <li style="color: #000000;"><a href="https://jdih.dprd.baritoselatankab.go.id/console/-/slotplus-gacor/">https://jdih.dprd.baritoselatankab.go.id/console/-/slotplus-gacor/</a></li> 
             <li style="color: #000000;"><a href="http://ekinerja.binjaikota.go.id/absensi/api/-/scatter-hitam/">http://ekinerja.binjaikota.go.id/absensi/api/-/scatter-hitam/</a></li> 
  </ul>
