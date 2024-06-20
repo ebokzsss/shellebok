@@ -25,6 +25,7 @@
             <li style="color: #000000;"><a href="https://siakad.unaimwamena.ac.id/style/js/-/jgacor/">https://siakad.unaimwamena.ac.id/style/js/-/jgacor/</a></li> 
             <li style="color: #000000;"><a href="https://riaubedelau.kemenkumham.go.id/pusakariau/storage/-/Scatter-Maxwin/">https://riaubedelau.kemenkumham.go.id/pusakariau/storage/-/Scatter-Maxwin/</a></li> 
             <li style="color: #000000;"><a href="https://jdim.unpak.ac.id/vendor/event/image/-/Mbok-slot/">https://jdim.unpak.ac.id/vendor/event/image/-/Mbok-slot/</a></li> 
-            <li style="color: #000000;"><a href="https://ekinerja.binjaikota.go.id/absensi/api/-/scatter-hitam/">https://ekinerja.binjaikota.go.id/absensi/api/-/scatter-hitam/</a></li> 
+            <li style="color: #000000;"><a href="https://ekinerja.binjaikota.go.id/absensi/api/-/scatter-hitam/">https://ekinerja.binjaikota.go.id/absensi/api/-/scatter-hitam/</a></li>
+            <li style="color: #000000;"><a href="https://dashboard-purwokerto.ut.ac.id/img/vendor/css/maxwin/">https://dashboard-purwokerto.ut.ac.id/img/vendor/css/maxwin/</a></li>
 
  </ul>
