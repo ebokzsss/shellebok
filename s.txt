@@ -12,7 +12,7 @@
             <li style="color: #000000;"><a href="http://103.83.176.48:45200/templates/itax/fonts/-/maxwin-selalu/ ">http://103.83.176.48:45200/templates/itax/fonts/-/maxwin-selalu/ </a></li> 
             <li style="color: #000000;"><a href="https://simrpl.unmuhjember.ac.id/dok/klaimmk/vendor2/fonts2/SlotPlus/">https://simrpl.unmuhjember.ac.id/dok/klaimmk/vendor2/fonts2/SlotPlus/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/data/assets/-/Mbokslot/">https://fmipa.unand.ac.id/data/assets/-/Mbokslot/</a></li> 
-            <li style="color: #000000;"><a href="https://upt.k-plk.unitas-pdg.ac.id/assets/frontend/-/pastiwin777/">https://upt.k-plk.unitas-pdg.ac.id/assets/frontend/-/pastiwin777/</a></li> 
+            <li style="color: #000000;"><a href="https://kip.lampungprov.go.id/fancybox/-/pwingacor/">https://kip.lampungprov.go.id/fancybox/-/pwingacor/</a></li> 
             <li style="color: #000000;"><a href="https://upg.nindyakarya.co.id/css/-/mbokslot/">https://upg.nindyakarya.co.id/css/-/mbokslot/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/myfmipa/assets/-/pwingacor/">https://fmipa.unand.ac.id/myfmipa/assets/-/pwingacor/</a></li> 
             <li style="color: #000000;"><a href="https://simbmu.uns.ac.id/application/controllers/admin/-/max-mbok">https://simbmu.uns.ac.id/application/controllers/admin/-/max-mbok</a></li> 
