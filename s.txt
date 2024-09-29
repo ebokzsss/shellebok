@@ -1,6 +1,6 @@
 <div style="display:none;">
             <li style="color: #000000;"><a href="https://ejournal.uin-suska.ac.id/UIN/">https://ejournal.uin-suska.ac.id/UIN/</a></li> 
-            <li style="color: #000000;"><a href="https://beritanegara.co.id/berita/">https://beritanegara.co.id/berita/</a></li> 
+            <li style="color: #000000;"><a href="https://beritanegara.co.id/negara/">https://beritanegara.co.id/negara/</a></li> 
             <li style="color: #000000;"><a href="https://pkl-si.ut.ac.id/data/">https://pkl-si.ut.ac.id/data/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/data/">https://fmipa.unand.ac.id/data/</a></li> 
             <li style="color: #000000;"><a href="https://ekinerja.binjaikota.go.id/absensi/environments/prod/-/gacor-nih/">https://ekinerja.binjaikota.go.id/absensi/environments/prod/-/gacor-nih/</a></li> 
