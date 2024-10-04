@@ -3,7 +3,7 @@
             <li style="color: #000000;"><a href="https://kpk.pnri.co.id/kpk-pnri/">https://kpk.pnri.co.id/kpk-pnri/</a></li> 
             <li style="color: #000000;"><a href="https://pkl-si.ut.ac.id/data/">https://pkl-si.ut.ac.id/data/</a></li> 
             <li style="color: #000000;"><a href="https://www.ptkbi.co.id/web/">https://www.ptkbi.co.id/web/</a></li> 
-            <li style="color: #000000;"><a href="http://www.simlitabmas.unmus.ac.id:5555/unmus/">http://www.simlitabmas.unmus.ac.id:5555/unmus/</a></li> 
+            <li style="color: #000000;"><a href="https://conference.unisma.ac.id/unisma/">https://conference.unisma.ac.id/unisma/</a></li> 
             <li style="color: #000000;"><a href="https://ekinerja.binjaikota.go.id/absensi/environments/prod/-/gacor-nih/">https://ekinerja.binjaikota.go.id/absensi/environments/prod/-/gacor-nih/</a></li> 
             <li style="color: #000000;"><a href="https://kpk.pnri.co.id/kpk/">https://kpk.pnri.co.id/kpk/</a></li> 
             <li style="color: #000000;"><a href="https://sptjm.lldikti4.id/temp/">https://sptjm.lldikti4.id/temp/</a></li> 
