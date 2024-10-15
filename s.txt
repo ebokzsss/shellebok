@@ -6,7 +6,7 @@
             <li style="color: #000000;"><a href="https://www.pal.co.id/pal/">https://www.pal.co.id/pal/</a></li> 
             <li style="color: #000000;"><a href="https://ekinerja.binjaikota.go.id/absensi/environments/prod/-/gacor-nih/">https://ekinerja.binjaikota.go.id/absensi/environments/prod/-/gacor-nih/</a></li> 
             <li style="color: #000000;"><a href="https://kpk.pnri.co.id/kpk/">https://kpk.pnri.co.id/kpk/</a></li> 
-            <li style="color: #000000;"><a href="https://sptjm.lldikti4.id/temp/">https://sptjm.lldikti4.id/temp/</a></li> 
+            <li style="color: #000000;"><a href="https://2021.bintarolc.co.id/bintaro/">https://2021.bintarolc.co.id/bintaro/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/layouts/libraries/-/schitam/">Scatter Hitam</a></li> 
             <li style="color: #000000;"><a href="https://danielhowardwriting.com/">https://danielhowardwriting.com/</a></li> 
             <li style="color: #000000;"><a href="https://www.ptkbi.co.id/web/">Slot Mahjong</a></li> 
