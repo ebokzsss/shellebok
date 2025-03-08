@@ -5,7 +5,7 @@
             <li style="color: #000000;"><a href="https://simawa.uai.ac.id">https://simawa.uai.ac.id</a></li> 
             <li style="color: #000000;"><a href="https://sikoba.koni-kotabandung.or.id/css/konibandung/">https://sikoba.koni-kotabandung.or.id/css/konibandung/</a></li> 
             <li style="color: #000000;"><a href="https://smartgov.bulelengkab.go.id/smartgov/">https://smartgov.bulelengkab.go.id/smartgov/</a></li> 
-            <li style="color: #000000;"><a href="https://dashboard.dss.unismuh.ac.id/storage/assets/">https://dashboard.dss.unismuh.ac.id/storage/assets/</a></li> 
+            <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/media/file/">https://fmipa.unand.ac.id/media/file/</a></li> 
             <li style="color: #000000;"><a href="https://e-journal.sttii-samarinda.ac.id/journal/">https://e-journal.sttii-samarinda.ac.id/journal/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/vendor/cdn-cgi/slotgacor/">Slot Gacor</a></li> 
             <li style="color: #000000;"><a href="https://danielhowardwriting.com/">https://danielhowardwriting.com/</a></li> 
