@@ -3,7 +3,7 @@
             <li style="color: #000000;"><a href="https://mylm.lifemedia.id/banner/">https://mylm.lifemedia.id/banner/</a></li> 
             <li style="color: #000000;"><a href="https://assessment.kadellabs.com/kadellabs/">https://assessment.kadellabs.com/kadellabs/</a></li> 
             <li style="color: #000000;"><a href="https://simawa.uai.ac.id">https://simawa.uai.ac.id</a></li> 
-            <li style="color: #000000;"><a href="https://sikoba.koni-kotabandung.or.id/css/konibandung/">https://sikoba.koni-kotabandung.or.id/css/konibandung/</a></li> 
+            <li style="color: #000000;"><a href="https://pmb.stitibnurusyd-tgt.ac.id/">https://pmb.stitibnurusyd-tgt.ac.id/</a></li> 
             <li style="color: #000000;"><a href="https://2021.bintarolc.co.id/data/file/">https://2021.bintarolc.co.id/data/file/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/media/file/">https://fmipa.unand.ac.id/media/file/</a></li> 
             <li style="color: #000000;"><a href="https://www.aspi-indonesia.or.id/aspi/">https://www.aspi-indonesia.or.id/aspi/</a></li> 
