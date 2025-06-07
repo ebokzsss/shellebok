@@ -11,7 +11,7 @@
             <li style="color: #000000;"><a href="https://e-proc.alita.id/skt_qrcode/skt/">https://e-proc.alita.id/skt_qrcode/skt/</a></li> 
             <li style="color: #000000;"><a href="https://sptjm.lldikti4.id/banner/">https://sptjm.lldikti4.id/banner/</a></li> 
             <li style="color: #000000;"><a href="https://silancar.pekalongankota.go.id/pekalongan/">https://silancar.pekalongankota.go.id/pekalongan/</a></li> 
-            <li style="color: #000000;"><a href="https://app.mywork.com.au/">https://app.mywork.com.au/</a></li> 
+            <li style="color: #000000;"><a href="https://ditjenpkh.pertanian.go.id/uploads/pertanian/">https://ditjenpkh.pertanian.go.id/uploads/pertanian/</a></li> 
             <li style="color: #000000;"><a href="https://stage.goodeva.co.id/goodeva/">https://stage.goodeva.co.id/goodeva/</a></li> 
             <li style="color: #000000;"><a href="https://www.franchiseindia.com/uploads/franch/">https://www.franchiseindia.com/uploads/franch/</a></li> 
             <li style="color: #000000;"><a href="https://ibs.rshs.or.id/ibs-rs/">https://ibs.rshs.or.id/ibs-rs/</a></li> 
