@@ -11,7 +11,7 @@
             <li style="color: #000000;"><a href="https://e-learning.radenfatah.ac.id/">https://e-learning.radenfatah.ac.id/</a></li> 
             <li style="color: #000000;"><a href="https://sptjm.lldikti4.id/banner/">https://sptjm.lldikti4.id/banner/</a></li> 
             <li style="color: #000000;"><a href="https://silancar.pekalongankota.go.id/pekalongan/">https://silancar.pekalongankota.go.id/pekalongan/</a></li> 
-            <li style="color: #000000;"><a href="https://ditjenpkh.pertanian.go.id/uploads/pertanian/">https://ditjenpkh.pertanian.go.id/uploads/pertanian/</a></li> 
+            <li style="color: #000000;"><a href="https://proceeding.iainkudus.ac.id/">https://proceeding.iainkudus.ac.id/</a></li> 
             <li style="color: #000000;"><a href="https://sptjm.lldikti4.id/storage/">https://sptjm.lldikti4.id/storage/</a></li> 
             <li style="color: #000000;"><a href="https://elearning.radenfatah.ac.id/raden/">https://elearning.radenfatah.ac.id/raden/</a></li> 
             <li style="color: #000000;"><a href="https://ibs.rshs.or.id/ibs-rs/">https://ibs.rshs.or.id/ibs-rs/</a></li> 
