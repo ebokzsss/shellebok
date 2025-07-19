@@ -3,7 +3,7 @@
             <li style="color: #000000;"><a href="https://ibs.rshs.or.id/">https://ibs.rshs.or.id/</a></li> 
             <li style="color: #000000;"><a href="https://rsjdahm.id/vendor/">https://rsjdahm.id/vendor/</a></li> 
             <li style="color: #000000;"><a href="http://103.206.170.246:8080/visi/">http://103.206.170.246:8080/visi/</a></li> 
-            <li style="color: #000000;"><a href="https://sipentas.tirtaasastadepok.co.id/public/file/">https://sipentas.tirtaasastadepok.co.id/public/file/</a></li> 
+            <li style="color: #000000;"><a href="https://ejurnal.unsada.ac.id/">https://ejurnal.unsada.ac.id/</a></li> 
             <li style="color: #000000;"><a href="https://simpeg.rsudaws.co.id/peg/image_file/rsu/">https://simpeg.rsudaws.co.id/peg/image_file/rsu/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/media/file/">https://fmipa.unand.ac.id/media/file/</a></li> 
             <li style="color: #000000;"><a href="https://dki.kemenag.go.id/layanan/">https://dki.kemenag.go.id/layanan/</a></li> 
