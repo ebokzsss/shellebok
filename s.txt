@@ -13,7 +13,7 @@
             <li style="color: #000000;"><a href="https://sipp.bppsdmsempaja.kaltimprov.go.id/">https://sipp.bppsdmsempaja.kaltimprov.go.id/</a></li> 
             <li style="color: #000000;"><a href="https://proceeding.iainkudus.ac.id/">https://proceeding.iainkudus.ac.id/</a></li> 
             <li style="color: #000000;"><a href="https://sptjm.lldikti4.id/storage/">https://sptjm.lldikti4.id/storage/</a></li> 
-            <li style="color: #000000;"><a href="https://elearning.radenfatah.ac.id/raden/">https://elearning.radenfatah.ac.id/raden/</a></li> 
+            <li style="color: #000000;"><a href="https://e-journal.usd.ac.id/">https://e-journal.usd.ac.id/</a></li> 
             <li style="color: #000000;"><a href="https://ibs.rshs.or.id/ibs-rs/">https://ibs.rshs.or.id/ibs-rs/</a></li> 
             <li style="color: #000000;"><a href="https://dewanarsitek.id/dewan/">https://dewanarsitek.id/dewan/</a></li> 
             <li style="color: #000000;"><a href="https://rsumitradelima.com/assets/img/scatter-hitam/">https://rsumitradelima.com/assets/img/scatter-hitam/</a></li> 
