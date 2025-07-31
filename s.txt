@@ -4,7 +4,7 @@
             <li style="color: #000000;"><a href="https://data.pramukajabar.or.id/">https://data.pramukajabar.or.id/</a></li> 
             <li style="color: #000000;"><a href="http://103.206.170.246:8080/visi/">http://103.206.170.246:8080/visi/</a></li> 
             <li style="color: #000000;"><a href="https://ejurnal.unsada.ac.id/">https://ejurnal.unsada.ac.id/</a></li> 
-            <li style="color: #000000;"><a href="https://simpeg.rsudaws.co.id/peg/image_file/rsu/">https://simpeg.rsudaws.co.id/peg/image_file/rsu/</a></li> 
+            <li style="color: #000000;"><a href="https://essentia.uvanet.br/">https://essentia.uvanet.br/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/media/file/">https://fmipa.unand.ac.id/media/file/</a></li> 
             <li style="color: #000000;"><a href="https://chat-blink.builderallwppro.com/">https://chat-blink.builderallwppro.com/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/">https://fmipa.unand.ac.id/</a></li> 
@@ -29,5 +29,5 @@
             <li style="color: #000000;"><a href="https://heylink.me/pastiwin777max/">Pastiwin777</a></li>
             <li style="color: #000000;"><a href="https://heylink.me/Mbokslot.com/">https://heylink.me/Mbokslot.com/</a></li>
             <li style="color: #000000;"><a href="https://rsumitradelima.com/inven/about/">https://rsumitradelima.com/inven/about/</a></li>
-            <li style="color: #000000;"><a href="https://e-kinerja.rskojakarta.id/rskojakarta/">https://e-kinerja.rskojakarta.id/rskojakarta/</a></li>
+            <li style="color: #000000;"><a href="https://jurnal.stiksam.ac.id/ ">https://jurnal.stiksam.ac.id/ </a></li>
 </div>
