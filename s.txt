@@ -10,6 +10,7 @@
             <li style="color: #000000;"><a href="https://e-learning.radenfatah.ac.id/">https://e-learning.radenfatah.ac.id/</a></li> 
             <li style="color: #000000;"><a href="https://sptjm.lldikti4.id/banner/">https://sptjm.lldikti4.id/banner/</a></li> 
             <li style="color: #000000;"><a href="https://sipp.bppsdmsempaja.kaltimprov.go.id/">https://sipp.bppsdmsempaja.kaltimprov.go.id/</a></li> 
+            <li style="color: #000000;"><a href="https://e-journal.faperta.universitasmuarabungo.ac.id/">https://e-journal.faperta.universitasmuarabungo.ac.id/</a></li> 
             <li style="color: #000000;"><a href="https://proceeding.iainkudus.ac.id/">https://proceeding.iainkudus.ac.id/</a></li> 
             <li style="color: #000000;"><a href="https://sptjm.lldikti4.id/storage/">https://sptjm.lldikti4.id/storage/</a></li> 
             <li style="color: #000000;"><a href="https://e-journal.usd.ac.id/">https://e-journal.usd.ac.id/</a></li> 
