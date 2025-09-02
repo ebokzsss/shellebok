@@ -4,7 +4,7 @@
             <li style="color: #000000;"><a href="https://data.pramukajabar.or.id/">https://data.pramukajabar.or.id/</a></li> 
             <li style="color: #000000;"><a href="http://103.206.170.246:8080/visi/">http://103.206.170.246:8080/visi/</a></li> 
             <li style="color: #000000;"><a href="https://e-journal.faperta.universitasmuarabungo.ac.id/">https://e-journal.faperta.universitasmuarabungo.ac.id/</a></li> 
-            <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/media/file/">https://fmipa.unand.ac.id/media/file/</a></li> 
+            <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/inspect/">https://fmipa.unand.ac.id/inspect/</a></li> 
             <li style="color: #000000;"><a href="https://traghettionline.net/">https://traghettionline.net/</a></li> 
             <li style="color: #000000;"><a href="https://lgpd.seventh.com.br/">https://lgpd.seventh.com.br/</a></li> 
             <li style="color: #000000;"><a href="https://e-learning.radenfatah.ac.id/">https://e-learning.radenfatah.ac.id/</a></li> 
