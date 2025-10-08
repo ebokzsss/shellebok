@@ -6,7 +6,7 @@
             <li style="color: #000000;"><a href="https://mpp.jambikota.go.id/">https://mpp.jambikota.go.id/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/inspect/">https://fmipa.unand.ac.id/inspect/</a></li> 
             <li style="color: #000000;"><a href="https://setpublisher.com/">https://setpublisher.com/</a></li> 
-            <li style="color: #000000;"><a href="https://lpbkui.unismuh.ac.id/toefl/storage/galeri/">https://lpbkui.unismuh.ac.id/toefl/storage/galeri/</a></li> 
+            <li style="color: #000000;"><a href="https://bppsdmsempaja.kaltimprov.go.id/">https://bppsdmsempaja.kaltimprov.go.id/</a></li> 
             <li style="color: #000000;"><a href="https://fmipa.unand.ac.id/">https://fmipa.unand.ac.id/</a></li> 
             <li style="color: #000000;"><a href="https://sptjm.lldikti4.id/banner/">https://sptjm.lldikti4.id/banner/</a></li> 
             <li style="color: #000000;"><a href="https://linktr.ee/mbokslot_">mbokslot</a></li> 
